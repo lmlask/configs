@@ -1,0 +1,39 @@
+unmapAll
+
+map u scrollUp
+map e scrollDown
+map n scrollLeft
+map o scrollRight
+
+map ç scrollPageUp
+map i scrollPageDown
+
+map j scrollToTop
+map y scrollToBottom
+
+map l LinkHints.activateMode
+map , LinkHints.activateModeToOpenInNewTab
+map . LinkHints.activateModeToOpenInNewForegroundTab
+
+map f previousTab
+map p nextTab
+map t createTab
+map q visitPreviousTab
+map W moveTabRight
+map D moveTabLeft
+
+map Ç duplicateTab
+
+map x removeTab
+map z restoreTab
+
+map d goBack
+map w goForward
+
+map r reload
+
+map c copyCurrentUrl
+
+map k moveTabToNewWindow
+
+map a Vomnibar.activate
